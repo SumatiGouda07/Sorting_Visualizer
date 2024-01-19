@@ -32,4 +32,4 @@ A web application showcasing the inner workings of various sorting algorithms.
 - CSS
 - JavaScript
 
-Take a look at live version:
+Take a look at live version:  https://sumatigouda07.github.io/Sorting_Visualizer/

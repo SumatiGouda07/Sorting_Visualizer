@@ -31,3 +31,5 @@ A web application showcasing the inner workings of various sorting algorithms.
 - HTML
 - CSS
 - JavaScript
+
+Take a look at live version:
